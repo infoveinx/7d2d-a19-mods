@@ -1,5 +1,5 @@
 <configs>
-	<!-- Increase to ammunition stacks-->
+    <!-- Increase to ammunition stacks-->
     <set xpath="/items/item[@name='ammo9mmBulletBall']/property[@name='Stacknumber']/@value">500</set>
     <set xpath="/items/item[@name='ammo762mmBulletBall']/property[@name='Stacknumber']/@value">500</set>
     <set xpath="/items/item[@name='ammoShotgunShell']/property[@name='Stacknumber']/@value">300</set>
@@ -27,5 +27,5 @@
     <set xpath="/items/item[@name='drinkJarBeer']/property[@name='Stacknumber']/@value">50</set>
 
     <!-- Increase to misc items stacks -->
-	<set xpath="/items/item[@name='resourceRepairKit']/property[@name='Stacknumber']/@value">100</set>
+    <set xpath="/items/item[@name='resourceRepairKit']/property[@name='Stacknumber']/@value">100</set>
 </configs>

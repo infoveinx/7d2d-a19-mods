@@ -1,8 +1,8 @@
 <configs>
 
-	<!-- Double ammo output per build and set to 1 second craft time.  Also double ingredients -->
+    <!-- Double ammo output per build and set to 1 second craft time.  Also double ingredients -->
 
-	<!-- 9mm -->
+    <!-- 9mm -->
     <set xpath="/recipes/recipe[@name='ammo9mmBulletBall']/@count">2</set>
     <setattribute xpath="/recipes/recipe[@name='ammo9mmBulletBall']" name="craft_time">1</setattribute>
     <set xpath="/recipes/recipe[@name='ammo9mmBulletBall']/ingredient[@name='resourceBulletTip']/@count">2</set>
@@ -22,7 +22,7 @@
     <set xpath="/recipes/recipe[@name='ammo9mmBulletAP']/ingredient[@name='resourceBulletCasing']/@count">2</set>
 
     <!-- 44mag -->
-	<set xpath="/recipes/recipe[@name='ammo44MagnumBulletBall']/@count">2</set>
+    <set xpath="/recipes/recipe[@name='ammo44MagnumBulletBall']/@count">2</set>
     <setattribute xpath="/recipes/recipe[@name='ammo44MagnumBulletBall']" name="craft_time">1</setattribute>
     <set xpath="/recipes/recipe[@name='ammo44MagnumBulletBall']/ingredient[@name='resourceBulletTip']/@count">2</set>
     <set xpath="/recipes/recipe[@name='ammo44MagnumBulletBall']/ingredient[@name='resourceGunPowder']/@count">4</set>
@@ -73,7 +73,7 @@
     <set xpath="/recipes/recipe[@name='ammoShotgunSlug']/ingredient[@name='resourceScrapPolymers']/@count">2</set>
 
     <!-- Steel crossbow bolt -->
-	<set xpath="/recipes/recipe[@name='ammoCrossbowBoltSteelAP']/@count">2</set>
+    <set xpath="/recipes/recipe[@name='ammoCrossbowBoltSteelAP']/@count">2</set>
     <setattribute xpath="/recipes/recipe[@name='ammoCrossbowBoltSteelAP']" name="craft_time">1</setattribute>
     <set xpath="/recipes/recipe[@name='ammoCrossbowBoltSteelAP']/ingredient[@name='resourceArrowHeadSteelAP']/@count">2</set>
     <set xpath="/recipes/recipe[@name='ammoCrossbowBoltSteelAP']/ingredient[@name='resourceScrapPolymers']/@count">4</set>
