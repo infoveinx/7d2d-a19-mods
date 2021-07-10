@@ -1,0 +1,16 @@
+<configs>
+	<!-- Dont destroy ammo, food, medical, clothes , and book containers after opening -->
+    <set xpath="/lootcontainers/lootcontainer[@id='107']/@destroy_on_close">false</set>
+    <set xpath="/lootcontainers/lootcontainer[@id='108']/@destroy_on_close">false</set>
+    <set xpath="/lootcontainers/lootcontainer[@id='109']/@destroy_on_close">false</set>
+    <set xpath="/lootcontainers/lootcontainer[@id='110']/@destroy_on_close">false</set>
+    <set xpath="/lootcontainers/lootcontainer[@id='111']/@destroy_on_close">false</set>
+    <set xpath="/lootcontainers/lootcontainer[@id='112']/@destroy_on_close">false</set>
+    <set xpath="/lootcontainers/lootcontainer[@id='113']/@destroy_on_close">false</set>
+    <set xpath="/lootcontainers/lootcontainer[@id='114']/@destroy_on_close">false</set>
+    <set xpath="/lootcontainers/lootcontainer[@id='115']/@destroy_on_close">false</set>
+    <set xpath="/lootcontainers/lootcontainer[@id='116']/@destroy_on_close">false</set>
+    <set xpath="/lootcontainers/lootcontainer[@id='123']/@destroy_on_close">false</set>
+    <set xpath="/lootcontainers/lootcontainer[@id='134']/@destroy_on_close">false</set>
+    <set xpath="/lootcontainers/lootcontainer[@id='135']/@destroy_on_close">false</set>
+</configs>
